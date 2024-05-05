@@ -1,0 +1,491 @@
+{
+  "_id": {
+    "$oid": "64917c253cb8682666cac7ff"
+  },
+  "documentBookId": "647dcb2fd8a7c319125c0b57",
+  "documentTypeId": "63de92dbdb749c24fa432230",
+  "inOrdinal": 6,
+  "arrivalDate": 1687255997744,
+  "documentCode": "1148/SYT-NVYD",
+  "priorityLevel": "Low",
+  "shortDescription": "Vv đăng ký hoạt động đào tạo và  hoạt động giám sát, hỗ trợ kỹ thuật phòng xét nghiệm",
+  "issueUnit": {
+    "_id": {
+      "$oid": "647ea3a5d8a7c319125c0b5b"
+    },
+    "name": "Bộ Y tế",
+    "shortName": "BYT",
+    "_creatorId": "6476d4650c5d750424e466bd",
+    "_creatorUnitId": "6475cb70255b25b67f9c0fb4",
+    "_createdTime": 1686021029995,
+    "type": "OutOrg"
+  },
+  "proposalDistributeRequire": true,
+  "documentType": {
+    "_id": {
+      "$oid": "63de92dbdb749c24fa432230"
+    },
+    "name": "Công văn",
+    "shortName": "CV",
+    "expiredDate": 3,
+    "_creatorId": "6475cae5035cf0c926a83b13",
+    "_creatorUnitId": null,
+    "_createdTime": 1685525083571
+  },
+  "createHistory": [
+    {
+      "userInfo": {
+        "_id": "6476d4650c5d750424e466bf",
+        "username": "hanhluu@hmu.edu.vn",
+        "personalInfo": {
+          "staffId": "GV00008",
+          "fullName": "Lưu Thị Hạnh",
+          "degree": "CV",
+          "gender": "Female"
+        },
+        "esignConfig": null,
+        "terms": [
+          {
+            "termId": "6476ffe7d867212ed6c6b38b",
+            "titleId": "6476fb9880c18f528eaf336a",
+            "startTimestamp": 1617763354000,
+            "endTimestamp": 1743993754000,
+            "rank": 4,
+            "revoked": false,
+            "unitId": "6475cb70255b25b67f9c0fb4",
+            "title": {
+              "_id": {
+                "$oid": "6476fb9880c18f528eaf336a"
+              },
+              "name": "Văn thư phòng hành chính",
+              "shortName": "VT_HC",
+              "unitId": "6475cb70255b25b67f9c0fb4",
+              "role": "ClericalStaff",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525075625
+            },
+            "unit": {
+              "_id": {
+                "$oid": "6475cb70255b25b67f9c0fb4"
+              },
+              "name": "Phòng Hành chính",
+              "shortName": "P.HC",
+              "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+              "email": "daihocyhn@hmu.edu.vn",
+              "parentUnitId": "6475ca45d470a47d09009746",
+              "unitType": "ClericalOffice",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525074442,
+              "esignConfig": {
+                "provider": "BSIGN",
+                "accountId": "daihocyhn@hmu.edu.vn",
+                "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+              }
+            }
+          }
+        ]
+      },
+      "timestamp": 1687256100382,
+      "termId": "6476ffe7d867212ed6c6b38b",
+      "unit": {
+        "_id": {
+          "$oid": "6475cb70255b25b67f9c0fb4"
+        },
+        "name": "Phòng Hành chính",
+        "shortName": "P.HC",
+        "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+        "email": "daihocyhn@hmu.edu.vn",
+        "parentUnitId": "6475ca45d470a47d09009746",
+        "unitType": "ClericalOffice",
+        "_creatorId": "6475cae5035cf0c926a83b13",
+        "_creatorUnitId": null,
+        "_createdTime": 1685525074442,
+        "esignConfig": {
+          "provider": "BSIGN",
+          "accountId": "daihocyhn@hmu.edu.vn",
+          "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+        }
+      },
+      "type": "Create",
+      "unitId": "6475cb70255b25b67f9c0fb4"
+    },
+    {
+      "userInfo": {
+        "_id": "6476d4650c5d750424e466bd",
+        "username": "nguyenthuylinh@hmu.edu.vn",
+        "personalInfo": {
+          "staffId": "GV00006",
+          "fullName": "Nguyễn Thùy Linh",
+          "degree": "ThS",
+          "gender": "Female"
+        },
+        "esignConfig": null,
+        "terms": [
+          {
+            "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+            "titleId": "6476fb9490ebb33517fa4019",
+            "startTimestamp": 1617763354000,
+            "endTimestamp": 1743993754000,
+            "rank": 2,
+            "revoked": false,
+            "unitId": "6475cb70255b25b67f9c0fb4",
+            "title": {
+              "_id": {
+                "$oid": "6476fb9490ebb33517fa4019"
+              },
+              "name": "Phó trưởng phòng Hành chính",
+              "shortName": "PTP_HC",
+              "unitId": "6475cb70255b25b67f9c0fb4",
+              "role": "ClericalDirector",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525075054
+            },
+            "unit": {
+              "_id": {
+                "$oid": "6475cb70255b25b67f9c0fb4"
+              },
+              "name": "Phòng Hành chính",
+              "shortName": "P.HC",
+              "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+              "email": "daihocyhn@hmu.edu.vn",
+              "parentUnitId": "6475ca45d470a47d09009746",
+              "unitType": "ClericalOffice",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525074442,
+              "esignConfig": {
+                "provider": "BSIGN",
+                "accountId": "daihocyhn@hmu.edu.vn",
+                "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+              }
+            }
+          },
+          {
+            "titleId": "647d46e2f6e83626729a911f",
+            "startTimestamp": {
+              "$date": "2023-06-05T02:15:46.417Z"
+            },
+            "rank": 4,
+            "revoked": false,
+            "endTimestamp": null,
+            "unitId": "6475c96dceb44c5973b6d087",
+            "termId": "a287b128-015e-4010-82d4-412cbb3258e61685965123144",
+            "title": {
+              "_id": {
+                "$oid": "647d46e2f6e83626729a911f"
+              },
+              "name": "Quản trị tổ chức",
+              "shortName": "OrgManager",
+              "role": "OrganizationManager",
+              "unitId": "6475c96dceb44c5973b6d087",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685931746323
+            },
+            "unit": {
+              "_id": {
+                "$oid": "6475c96dceb44c5973b6d087"
+              },
+              "name": "Hội đồng trường",
+              "shortName": "HĐT",
+              "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+              "email": "daihocyhn@hmu.edu.vn",
+              "parentUnitId": null,
+              "unitType": "SpecializedUnit",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525074486,
+              "esignConfig": {
+                "provider": "BSIGN",
+                "accountId": "daihocyhn@hmu.edu.vn",
+                "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+              }
+            }
+          }
+        ]
+      },
+      "timestamp": 1687409209226,
+      "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+      "unit": {
+        "_id": {
+          "$oid": "6475cb70255b25b67f9c0fb4"
+        },
+        "name": "Phòng Hành chính",
+        "shortName": "P.HC",
+        "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+        "email": "daihocyhn@hmu.edu.vn",
+        "parentUnitId": "6475ca45d470a47d09009746",
+        "unitType": "ClericalOffice",
+        "_creatorId": "6475cae5035cf0c926a83b13",
+        "_creatorUnitId": null,
+        "_createdTime": 1685525074442,
+        "esignConfig": {
+          "provider": "BSIGN",
+          "accountId": "daihocyhn@hmu.edu.vn",
+          "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+        }
+      },
+      "type": "Proposal_Distribute",
+      "unitId": "6475cb70255b25b67f9c0fb4",
+      "relevantUsers": [
+        {
+          "id": "6476d4650c5d750424e466bd",
+          "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "functionType": "DIRECTOR",
+          "hostId": "6476d4650c5d750424e466bd",
+          "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "state": "Active",
+          "actionType": "TODO"
+        },
+        {
+          "id": "6476d4650c5d750424e466bd",
+          "functionType": "HOST",
+          "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "state": "Active",
+          "actionType": "TODO"
+        },
+        {
+          "id": "6476d4650c5d750424e466be",
+          "termId": "a606c31e-d750-11ed-afa1-0242ac1200021681097699000",
+          "functionType": "COORDINATOR",
+          "hostId": "6476d4650c5d750424e466bd",
+          "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "state": "Active",
+          "actionType": "TODO"
+        }
+      ]
+    },
+    {
+      "userInfo": {
+        "_id": "6476d4650c5d750424e466b9",
+        "username": "nguyenhuutu@hmu.edu.vn",
+        "personalInfo": {
+          "staffId": "GV00002",
+          "fullName": "Nguyễn Hữu Tú",
+          "degree": "GS.TS",
+          "gender": "Male"
+        },
+        "esignConfig": null,
+        "terms": [
+          {
+            "termId": "802a3988-d74f-11ed-afa1-0242ac1200021681097214000",
+            "titleId": "63de803d8f07d00d5ab09a3c",
+            "startTimestamp": {
+              "$date": "2021-04-07T02:42:34.000Z"
+            },
+            "endTimestamp": {
+              "$date": "2025-04-07T02:42:34.000Z"
+            },
+            "rank": 1,
+            "revoked": false,
+            "unitId": "6475ca45d470a47d09009746",
+            "title": {
+              "_id": {
+                "$oid": "63de803d8f07d00d5ab09a3c"
+              },
+              "name": "Hiệu trưởng Trường Đại học Y Hà Nội",
+              "shortName": "HT_ĐHYHN",
+              "unitId": "6475ca45d470a47d09009746",
+              "role": "UnitDirector",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525075565
+            },
+            "unit": {
+              "_id": {
+                "$oid": "6475ca45d470a47d09009746"
+              },
+              "name": "Ban Giám Hiệu",
+              "shortName": "BGH",
+              "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+              "email": "daihocyhn@hmu.edu.vn",
+              "parentUnitId": "6475c96dceb44c5973b6d087",
+              "unitType": "SpecializedUnit",
+              "_creatorId": "6475cae5035cf0c926a83b13",
+              "_creatorUnitId": null,
+              "_createdTime": 1685525074436,
+              "esignConfig": {
+                "provider": "BSIGN",
+                "accountId": "daihocyhn@hmu.edu.vn",
+                "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+              },
+              "canDistribute": true
+            },
+            "extends": {
+              "canDistributeIndocs": true
+            }
+          }
+        ]
+      },
+      "timestamp": 1687409247323,
+      "termId": "802a3988-d74f-11ed-afa1-0242ac1200021681097214000",
+      "unit": {
+        "_id": {
+          "$oid": "6475ca45d470a47d09009746"
+        },
+        "name": "Ban Giám Hiệu",
+        "shortName": "BGH",
+        "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+        "email": "daihocyhn@hmu.edu.vn",
+        "parentUnitId": "6475c96dceb44c5973b6d087",
+        "unitType": "SpecializedUnit",
+        "_creatorId": "6475cae5035cf0c926a83b13",
+        "_creatorUnitId": null,
+        "_createdTime": 1685525074436,
+        "esignConfig": {
+          "provider": "BSIGN",
+          "accountId": "daihocyhn@hmu.edu.vn",
+          "stampImageFilePath": "Unit/2023-02-08/21h39m10sZ07h00/soict-stamp-image-removebg-preview.png"
+        },
+        "canDistribute": true
+      },
+      "type": "Distribute",
+      "unitId": "6475ca45d470a47d09009746",
+      "relevantUsers": [
+        {
+          "id": "6476d4650c5d750424e466bd",
+          "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "functionType": "DIRECTOR",
+          "hostId": "6476d4650c5d750424e466bd",
+          "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "state": "Active",
+          "actionType": "TODO"
+        },
+        {
+          "id": "6476d4650c5d750424e466bd",
+          "functionType": "HOST",
+          "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "state": "Active",
+          "actionType": "TODO"
+        },
+        {
+          "id": "6476d4650c5d750424e466be",
+          "termId": "a606c31e-d750-11ed-afa1-0242ac1200021681097699000",
+          "functionType": "COORDINATOR",
+          "hostId": "6476d4650c5d750424e466bd",
+          "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+          "state": "Active",
+          "actionType": "TODO"
+        }
+      ]
+    }
+  ],
+  "documentBook": {
+    "_id": {
+      "$oid": "647dcb2fd8a7c319125c0b57"
+    },
+    "name": "Sổ văn bản mẫu 2023",
+    "bookCode": "SVB2023",
+    "bookType": "IncomingDocument",
+    "documentTypeIds": [
+      "63de92dbdb749c24fa432220",
+      "63de92dbdb749c24fa43221f",
+      "63de92dbdb749c24fa432221"
+    ],
+    "bookStatus": "Open",
+    "documentCount": 5,
+    "availableCount": 6
+  },
+  "documentStatus": "Distributed",
+  "attachmentFilePath": "IncomingDocument/2023-06-20/17h15m00sZ07h00/Vv-dang-ky-hoat-dong-dao-tao-va-hoat-dong-giam-sat-ho-tro-k-thuat-phong-xet-nghiem_suva-15-06-2023_09h12p30_converted(15.06.2023_09h44p40)_signed.pdf",
+  "attachmentFilePdfPath": null,
+  "appendixFilePaths": [],
+  "relatedUploadFilePaths": null,
+  "relevantUsers": {
+    "hostDataList": [
+      {
+        "id": "6476d4650c5d750424e466bd",
+        "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+        "functionType": "Director",
+        "hostId": "6476d4650c5d750424e466bd",
+        "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+        "state": "Active",
+        "actionType": "Todo"
+      },
+    ],
+  }
+    {hostDataList
+  }
+   
+    {
+    "id": "6476d4650c5d750424e466bd",
+    "functionType": "Host",
+    "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+    "state": "Inactive",
+    "actionType": "REJECT"
+  },
+  {
+    "id": "6476d4650c5d750424e466be",
+    "termId": "a606c31e-d750-11ed-afa1-0242ac1200021681097699000",
+    "functionType": "Coordinator",
+    "hostId": "6476d4650c5d750424e466bd",
+    "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+    "state": "Active",
+    "actionType": "Done"
+  }
+],
+"procedureHistory": [
+  {
+    "procedureType": "DISTRIBUTE",
+    "actionUser": {
+      "id": "6476d4650c5d750424e466b9",
+      "termId": "802a3988-d74f-11ed-afa1-0242ac1200021681097214000"
+    },
+    "inDocumentId": "64917c253cb8682666cac7ff",
+    "coordinatorDataList": [
+      {
+        "id": "6476d4650c5d750424e466be",
+        "termId": "a606c31e-d750-11ed-afa1-0242ac1200021681097699000"
+      }
+    ],
+    "referenceDataList": [],
+    "directorDataList": [
+      {
+        "id": "6476d4650c5d750424e466bd",
+        "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000"
+      }
+    ],
+    "message": "Ok",
+    "createdAt": 1687409247322,
+    "hostId": "6476d4650c5d750424e466bd",
+    "hostTermId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000",
+    "_id": {
+      "$oid": "6493d25f3cb8682666cac836"
+    }
+  },
+  {
+    "procedureType": "COMPLETE",
+    "actionUser": {
+      "id": "6476d4650c5d750424e466be",
+      "termId": "a606c31e-d750-11ed-afa1-0242ac1200021681097699000"
+    },
+    "inDocumentId": "64917c253cb8682666cac7ff",
+    "coordinatorDataList": [],
+    "referenceDataList": [],
+    "directorDataList": [],
+    "message": null,
+    "createdAt": 1688547952446,
+    "functionType": "COORDINATOR",
+    "reportFiles": []
+  },
+  {
+    "procedureType": "REJECT",
+    "actionUser": {
+      "id": "6476d4650c5d750424e466bd",
+      "termId": "8807a888-d750-11ed-afa1-0242ac1200021681097664000"
+    },
+    "inDocumentId": "64917c253cb8682666cac7ff",
+    "coordinatorDataList": [],
+    "referenceDataList": [],
+    "directorDataList": [],
+    "message": "",
+    "createdAt": 1689317060253
+  }
+],
+"procedureId": {
+  "$oid": "6493d25f3cb8682666cac836"
+}
+}
